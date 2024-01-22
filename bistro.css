@@ -1,0 +1,19 @@
+body{
+    margin-left: 250px;
+    margin-right: 450px;
+}
+hr{
+    color: #a8e0e0;
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: #ec7715;
+}
+img{
+    margin-left: 250px;
+}
+p{
+    font-weight: bold;
+}

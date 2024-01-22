@@ -1,0 +1,9 @@
+ table, th, td{
+            border: double;
+     border-color: black;
+
+        }
+ img{
+     height: 50px;
+     width: 50px;
+ }
